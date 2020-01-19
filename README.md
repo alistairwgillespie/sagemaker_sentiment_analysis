@@ -1,4 +1,4 @@
-# SageMaker Deployment Project
+# Sentiment Analysis tool on SageMaker
 
 Here lies a Sentiment Analysis tool built using PyTorch and SageMaker.
 
